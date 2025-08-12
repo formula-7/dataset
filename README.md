@@ -2,14 +2,14 @@
 
 Este repositório contém um dataset utilizado para análise de corridas de Fórmula 1.
 
-## Como utilizar
+## como utilizar
 
 Você pode acessar o banco de dados de duas formas:
 
-1. **Modo Estático:**  
+1. **modo Estático:**  
     Utilize os arquivos já disponíveis na pasta `formula1_race_data` para análise local.
 
-2. **Modo Dinâmico:**  
+2. **modo Dinâmico:**  
     Carregue o dataset utilizando a função `load_dataset` para obter os dados de forma programática.
 
 Escolha o método que melhor se adapta ao seu fluxo de trabalho.
